@@ -1,14 +1,12 @@
 # reference_abstract_download
 
 ## Usage
-Rscript ref_abstract_download.R \
-    "key words" \
-    ref_output.xls 
+Rscript ref_abstract_download.R "key words" ref_output.xls 
 
-## Preparation
-install.packages("RISmed") 
-install.packages("tidyverse")
-install.packages("tidypmc")
+## Preparation<br>
+install.packages("RISmed") <br>
+install.packages("tidyverse")<br>
+install.packages("tidypmc")<br>
 install.packages("europepmc")
 
 ## Output
